@@ -1,1 +1,2 @@
 # week1
+This project focuses on the classification of waste materials using Convolutional Neural Networks (CNNs). The goal is to develop a model that can accurately identify and categorize different types of waste, such as metal, plastic, glass, paper, compost, trash, and cardboard. By leveraging deep learning techniques, we aim to enhance waste management processes and promote recycling efforts. The project involves data preparation, model training, and evaluation, with a strong emphasis on visualizing the distribution of training and testing datasets.
